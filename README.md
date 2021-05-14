@@ -1,4 +1,4 @@
-# Solucao Desafio Itau-SD - Jidlafe Hegner 14/05/21
+# Solucao Desafio - Jidlafe Hegner
 
 ## Introdução
 
